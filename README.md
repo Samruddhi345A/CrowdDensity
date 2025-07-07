@@ -1,6 +1,4 @@
-That’s a great idea! Here's a clean, professional README-style breakdown you can include in your GitHub repo to help your teammates understand and run your **Smart Retail Footfall Analytics Dashboard** project.
 
----
 
 # 🛒 Smart Retail Footfall Dashboard
 
