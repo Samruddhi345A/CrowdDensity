@@ -133,10 +133,3 @@ npm start
 * Color-coded crowd cards (green/yellow/red)
 
 ---
-
-
-## 🤝 Authors
-
-* Samruddhi & Team (Walmart Hackathon 2025)
-
----
